@@ -1,0 +1,13 @@
+user1	2
+user2	5
+user1	8
+user3	3
+user4	1
+user2	3
+user1	2
+user4	50
+user2	6
+user1	2
+user1	8
+user1	9
+user3	10
