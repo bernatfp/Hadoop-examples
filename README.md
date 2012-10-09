@@ -15,7 +15,6 @@ To run the Hadoop or the Cascading examples issue this set of commands:
 
 ```
 hadoop fs -put <fs filepath src> <hdfs filepath dst>
-
 hadoop jar <our job .jar> <classname> <hdfs filepath src> <hdfs dst path>
 ```
 
