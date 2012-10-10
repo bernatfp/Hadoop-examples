@@ -42,3 +42,7 @@ Also, if you use _Cascading_, you must add the _Cascading_ Core and Hadoop libra
 ###Before running the job
 Be aware that _Cascading_ won't run correctly unless you put all its dependences, found in `cascading-*/lib`, into the `$HADOOP_HOME/lib` directory.
 
+***
+
+###### For any comments you can reach me at bernatfp at gmail or verdnat at twitter.
+
