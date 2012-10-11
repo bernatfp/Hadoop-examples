@@ -40,7 +40,7 @@ Remember you need to reference the _Hadoop_ Core library (`hadoop-core-*.jar`) i
 Also, if you use _Cascading_, you must add the _Cascading_ Core and Hadoop libraries to the project (`cascading-core-2.0.5.jar` and `cascading-hadoop-2.0.5.jar`).
 
 ###Before running the job
-Be aware that _Cascading_ won't run correctly unless you put all its dependences, found in `cascading-*/lib`, into the `$HADOOP_HOME/lib` directory.
+Be aware that _Cascading_ won't run correctly unless you put all its dependences, found in `cascading-*/lib`, into the same .jar as our job. Another (easier) option is to copy these libraries into the `$HADOOP_HOME/lib` directory, but it won't work if you're running Hadoop on a cluster unless you do the same to every node.
 
 ***
 
