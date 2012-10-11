@@ -1,6 +1,10 @@
 *~
 *.dot
 *.class
+*.settings
+*.classpath
+*.project
+*.pyc
 
 # Package Files #
 *.jar
